@@ -1,0 +1,1 @@
+To install the module, you need to add the folder to a zip file with the same name, then in Prestashop admin panel go to Modules -> Module Manager in the sidebar and upload the module using the "Upload a module" button.
